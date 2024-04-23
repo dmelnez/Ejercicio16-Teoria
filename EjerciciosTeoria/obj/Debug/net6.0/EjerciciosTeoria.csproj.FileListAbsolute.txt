@@ -1,0 +1,14 @@
+C:\Users\dmelnez\source\repos\EjerciciosTeoria\EjerciciosTeoria\bin\Debug\net6.0\EjerciciosTeoria.exe
+C:\Users\dmelnez\source\repos\EjerciciosTeoria\EjerciciosTeoria\bin\Debug\net6.0\EjerciciosTeoria.deps.json
+C:\Users\dmelnez\source\repos\EjerciciosTeoria\EjerciciosTeoria\bin\Debug\net6.0\EjerciciosTeoria.runtimeconfig.json
+C:\Users\dmelnez\source\repos\EjerciciosTeoria\EjerciciosTeoria\bin\Debug\net6.0\EjerciciosTeoria.dll
+C:\Users\dmelnez\source\repos\EjerciciosTeoria\EjerciciosTeoria\bin\Debug\net6.0\EjerciciosTeoria.pdb
+C:\Users\dmelnez\source\repos\EjerciciosTeoria\EjerciciosTeoria\obj\Debug\net6.0\EjerciciosTeoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\source\repos\EjerciciosTeoria\EjerciciosTeoria\obj\Debug\net6.0\EjerciciosTeoria.AssemblyInfoInputs.cache
+C:\Users\dmelnez\source\repos\EjerciciosTeoria\EjerciciosTeoria\obj\Debug\net6.0\EjerciciosTeoria.AssemblyInfo.cs
+C:\Users\dmelnez\source\repos\EjerciciosTeoria\EjerciciosTeoria\obj\Debug\net6.0\EjerciciosTeoria.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\source\repos\EjerciciosTeoria\EjerciciosTeoria\obj\Debug\net6.0\EjerciciosTeoria.dll
+C:\Users\dmelnez\source\repos\EjerciciosTeoria\EjerciciosTeoria\obj\Debug\net6.0\refint\EjerciciosTeoria.dll
+C:\Users\dmelnez\source\repos\EjerciciosTeoria\EjerciciosTeoria\obj\Debug\net6.0\EjerciciosTeoria.pdb
+C:\Users\dmelnez\source\repos\EjerciciosTeoria\EjerciciosTeoria\obj\Debug\net6.0\EjerciciosTeoria.genruntimeconfig.cache
+C:\Users\dmelnez\source\repos\EjerciciosTeoria\EjerciciosTeoria\obj\Debug\net6.0\ref\EjerciciosTeoria.dll
